@@ -1,4 +1,4 @@
-# Fundamentos Matematicos de Big-Data
+# Fundamentos Matemáticos de Big-Data
 
 ## Sección 1
 
